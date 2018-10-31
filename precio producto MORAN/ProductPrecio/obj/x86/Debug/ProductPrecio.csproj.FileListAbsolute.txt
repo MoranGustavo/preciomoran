@@ -1,0 +1,44 @@
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.exe
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.pdb
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+C:\Users\lucas\Downloads\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.exe
+C:\Users\lucas\Desktop\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.pdb
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\bin\Debug\ProductPrecio.exe
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\bin\Debug\ProductPrecio.pdb
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+C:\Users\lucas\Desktop\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\bin\Debug\ProductPrecio.exe
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\bin\Debug\ProductPrecio.pdb
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Nueva carpeta\practico algorry\precio producto , lucas A\ProductPrecio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\bin\Debug\ProductPrecio.exe
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\bin\Debug\ProductPrecio.pdb
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\precio producto MORAN\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojResolveAssemblyReference.cache
